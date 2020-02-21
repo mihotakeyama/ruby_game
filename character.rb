@@ -1,5 +1,5 @@
 class Character
-  attr_accesor :hp
+  attr_accessor :hp
   attr_reader :offense, :defense
 
   def initialize(**params)
