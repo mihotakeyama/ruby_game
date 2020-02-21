@@ -1,4 +1,4 @@
 require './character'
 
-class Monster <Character
+class Monster < Character
 end
